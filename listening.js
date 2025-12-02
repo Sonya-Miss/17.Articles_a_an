@@ -3,22 +3,22 @@ const gameData = [
     {
         correctEnglishPhrase: "How is she? She is great",
         draggableEnglishWords: ["How", "is", "she?", "She", "is", "great"],
-        audioPath: ".A/udio/14.1.mp3"
+        audioPath: "./Audio/14.1.mp3"
     },
     {
         correctEnglishPhrase: "How old are they? They are eight",
         draggableEnglishWords: ["How", "old", "are", "they?", "They", "are", "eight"],
-        audioPath: ".A/udio/14.2.mp3"
+        audioPath: "./Audio/14.2.mp3"
     },
     {
         correctEnglishPhrase: "It is a black horse",
         draggableEnglishWords: ["It", "is", "a", "black", "horse"],
-        audioPath: ".A/udio/14.3.mp3"
+        audioPath: "./Audio/14.3.mp3"
     },
     {
         correctEnglishPhrase: "It is a white sheep",
         draggableEnglishWords: ["It", "is", "a", "white", "sheep"],
-        audioPath: ".A/udio/14.4.mp3"
+        audioPath: "./Audio/14.4.mp3"
     }
 ];
 
